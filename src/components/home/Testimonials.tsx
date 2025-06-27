@@ -90,25 +90,7 @@ const Testimonials: React.FC = () => {
           ))}
         </div>
         
-        <ScrollReveal delay={300}>
-          <div className="mt-16 text-center">
-            <div className="inline-flex items-center gap-3 mb-6">
-              <div className="w-12 h-12 rounded-full bg-construction-yellow flex items-center justify-center">
-                <UserRound className="text-construction-blue" size={24} />
-              </div>
-              <h3 className="text-xl font-semibold">Join Our Satisfied Clients</h3>
-            </div>
-            <p className="max-w-2xl mx-auto text-gray-600 mb-8">
-              Ready to experience the Crown Construction difference? Contact us today for a consultation and see why we're the trusted choice for construction excellence.
-            </p>
-            <a href="/contact" className="btn-primary inline-flex items-center group">
-              Get in Touch
-              <svg className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                <path fillRule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
-              </svg>
-            </a>
-          </div>
-        </ScrollReveal>
+  
       </div>
     </section>
   );
