@@ -306,8 +306,8 @@ const projectsData: Project[] = [
     image: bilton,
     location: 'Wilson Garden, Banglore',
     year: 'Ongoing',
-    description: 'A serene living space away from city hustle.',
-    longDescription: 'Designed for peaceful living, this project includes spacious flats, green surroundings, and modern conveniences.',
+    description: 'An exquisite retreat offering luxury and comfort in every detail.',
+    longDescription: 'Crafted for discerning travelers, this premium hotel features elegantly appointed rooms, lush surroundings, and world-class amenities for an unforgettable stay.',
     features: [
       'Eco-friendly construction',
       'Spacious balconies',

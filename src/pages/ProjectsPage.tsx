@@ -127,7 +127,7 @@ const ProjectsPage: React.FC = () => {
       image: bilton,
       location: 'Wilson Garden, Banglore',
       year: 'Ongoing',
-      description: 'Spacious multistorey home built for family comfort and aesthetics.'
+      description: 'An exquisite retreat offering luxury and comfort in every detail.'
     }
   ];  
 

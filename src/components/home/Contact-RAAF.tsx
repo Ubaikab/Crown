@@ -231,7 +231,7 @@ const Contact: React.FC = () => {
       
       {/* Decorative elements */}
       <div className="absolute top-0 right-0 w-40 h-40 bg-construction-yellow opacity-10 rounded-bl-full"></div>
-      <div className="absolute bottom-0 left-0 w-64 h-64 bg-construction-blue opacity-10 rounded-tr-full"></div>
+      
     </section>
   );
 };
