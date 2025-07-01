@@ -97,7 +97,7 @@ const AboutPage: React.FC = () => {
                 <ScrollReveal delay={300}>
                   <div className="space-y-4 text-gray-600">
                     <p>
-                      Founded in 1998, Crown Construction began as a small family business with a big vision. Our founder, John Crown, started the company with just three employees and a commitment to quality craftsmanship.
+                      Founded in 1998, Crown Construction began as a small family business with a big vision. Our founder, Shabaz Syed, started the company with just three employees and a commitment to quality craftsmanship.
                     </p>
                     <p>
                       Over the past 25 years, we've grown into a full-service construction company with over 150 employees, completing projects ranging from custom homes to large commercial developments.
